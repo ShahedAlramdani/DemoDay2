@@ -3,7 +3,7 @@ package Day2;
 public class DemoDay2 {
 	public static void main (String args []) {
 		System.out.println("JAVA");
-					System.out.println("Shahed");
+					System.out.println("Team work");
 		
 								System.out.println("Chocolate");
 								int a = 10;
@@ -33,4 +33,8 @@ public class DemoDay2 {
 	public static void divide(int b, int c) {
 		System.out.println(b / c);
 	}
+	
+	
+
+	
 }
